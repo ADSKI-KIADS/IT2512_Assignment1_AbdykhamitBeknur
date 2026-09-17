@@ -1,0 +1,15 @@
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\bin\Debug\net10.0\GroupIT2512_Beknur_Abdykhamit_Assignment1.exe
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\bin\Debug\net10.0\GroupIT2512_Beknur_Abdykhamit_Assignment1.deps.json
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\bin\Debug\net10.0\GroupIT2512_Beknur_Abdykhamit_Assignment1.runtimeconfig.json
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\bin\Debug\net10.0\GroupIT2512_Beknur_Abdykhamit_Assignment1.dll
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\bin\Debug\net10.0\GroupIT2512_Beknur_Abdykhamit_Assignment1.pdb
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\obj\Debug\net10.0\GroupIT2512_Beknur_Abdykhamit_Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\obj\Debug\net10.0\GroupIT2512_Beknur_Abdykhamit_Assignment1.AssemblyInfoInputs.cache
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\obj\Debug\net10.0\GroupIT2512_Beknur_Abdykhamit_Assignment1.AssemblyInfo.cs
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\obj\Debug\net10.0\GroupIT2512_Beknur_Abdykhamit_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\obj\Debug\net10.0\GroupIT2512_Beknur_Abdykhamit_Assignment1.dll
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\obj\Debug\net10.0\refint\GroupIT2512_Beknur_Abdykhamit_Assignment1.dll
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\obj\Debug\net10.0\GroupIT2512_Beknur_Abdykhamit_Assignment1.pdb
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\obj\Debug\net10.0\GroupIT2512_Beknur_Abdykhamit_Assignment1.genruntimeconfig.cache
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\obj\Debug\net10.0\ref\GroupIT2512_Beknur_Abdykhamit_Assignment1.dll
+C:\Users\ADSKI\source\repos\Assignment1\GroupIT2512_Beknur_Abdykhamit_Assignment1\obj\Debug\net10.0\GroupIT2.C93DB036.Up2Date
